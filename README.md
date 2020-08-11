@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/bozd4g">
   <img align="left" alt="Furkan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="mailto:bozd4g@gmail.com">
+<a href="mailto:me@furkanbozdag.com">
   <img align="left" alt="Furkan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 

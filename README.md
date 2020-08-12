@@ -21,6 +21,9 @@
 <a href="mailto:me@furkanbozdag.com">
   <img align="left" alt="Furkan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="paypal.me/bozd4g">
+  <img align="left" alt="Furkan's Paypal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />
+</a>
 
 <br />
 <br />
@@ -42,6 +45,10 @@ On the other hand, explore is an exciting thing. Travels, music, designs, techno
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br />
+
+<a href="https://www.buymeacoffee.com/bozd4g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 <!--
 **bozd4g/bozd4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

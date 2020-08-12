@@ -47,7 +47,7 @@ On the other hand, explore is an exciting thing. Travels, music, designs, techno
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-**Show your support:**
+<br />
 
 <code><a href="https://www.buymeacoffee.com/bozd4g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a></code>
 

@@ -21,9 +21,6 @@
 <a href="mailto:me@furkanbozdag.com">
   <img align="left" alt="Furkan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://paypal.me/bozd4g">
-  <img align="left" alt="Furkan's Paypal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />
-</a>
 
 <br />
 <br />

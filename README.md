@@ -45,11 +45,6 @@ So, do you wanna meet with me? Book with me on [Superpeer.](https://superpeer.co
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
-<br />
-
-<code><a href="https://www.buymeacoffee.com/bozd4g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a></code>
-
 <!--
 **bozd4g/bozd4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

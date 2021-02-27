@@ -1,4 +1,5 @@
-### Hi there, I'm [Furkan!](https://bozdag.dev)  👋
+### Hi there, I'm [Furkan!](https://bozdag.dev) <img alt="Furkan's Instagram" width="40px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+
 
 <a href="https://www.instagram.com/bozd4g">
   <img align="left" alt="Furkan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

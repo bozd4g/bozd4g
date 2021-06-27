@@ -22,13 +22,13 @@
 <br />
 <br />
 
-I am Furkan Bozdag from Istanbul, Turkey who is a enthusiastic developer [@trendyol](https://github.com/trendyol) 🚀
+I am Furkan Bozdag from Istanbul, Turkey who is a enthusiastic developer 🚀
 
 The KISS principle is everything for me. I'm thinking simplicity and design are created for our lives! I am trying to apply these principles to my life and business 😘
 
 On the other hand, explore is an exciting thing. Travels, music, designs, technologies, development, and writing about something are my area of interests. I like meeting and making new friends 🤙
 
-So, do you wanna meet with me? Book with me on [Superpeer.](https://superpeer.com/bozd4g)
+So, do you wanna meet with me? Please use the [Superpeer.](https://superpeer.com/bozd4g)
 
 **Languages and Tools:**  
 

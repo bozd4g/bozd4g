@@ -1,4 +1,4 @@
-### Hi there, I'm [Furkan!](https://bozdag.dev) <img alt="Furkan's Instagram" width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+### Hello, it's [Furkan!](https://bozdag.dev) <img alt="Furkan's Instagram" width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
 
 <a href="https://www.instagram.com/bozd4g">
   <img align="left" alt="Furkan's Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
@@ -21,11 +21,10 @@
 <br />
 <br />
 
-The KISS principle is everything for me. I'm thinking simplicity and design are created for our lives! I am trying to apply these principles to my life and business 🚀
+I am a Software Engineer who is working on backend and frontend.
 
-On the other hand, explore is an exciting thing. Travels, music, designs, technologies, development, and writing about something are my area of interests. I like meeting and making new friends 🤙
-
-So, do you wanna meet with me? Please use the [Superpeer.](https://superpeer.com/bozd4g)
+Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests. I like meeting and making new friends 🤙
+So, do you wanna meet with me? Please use the [Superpeer](https://superpeer.com/bozd4g) or social media.
 
 **Languages and Tools:**  
 
@@ -37,18 +36,3 @@ So, do you wanna meet with me? Please use the [Superpeer.](https://superpeer.com
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<!--
-**bozd4g/bozd4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

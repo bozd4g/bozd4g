@@ -23,7 +23,7 @@
 
 I am a Software Engineer who is working on backend and frontend.
 
-Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests. I like meeting and making new friends 🤙
+Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests. I like meeting and making new friends 🤙\
 So, do you wanna meet with me? Please use the [Superpeer](https://superpeer.com/bozd4g) or social media.
 
 **Languages and Tools:**  

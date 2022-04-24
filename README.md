@@ -12,7 +12,7 @@
 <a href="https://medium.com/@bozd4g">
   <img align="left" alt="Furkan's Medium" width="22px" src="https://user-images.githubusercontent.com/27498814/109384099-9e20b480-78fb-11eb-9ac6-72ec549e9289.png" />
 </a>
-<a href="https://t.me/boz4g">
+<a href="https://t.me/bozd4g">
   <img align="left" alt="Furkan's Telegram" width="22px" src="https://user-images.githubusercontent.com/27498814/109384019-3f5b3b00-78fb-11eb-9d09-cd65cedaee6e.png" />
 <a href="mailto:me@furkanbozdag.com">
   <img align="left" alt="Furkan's Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />

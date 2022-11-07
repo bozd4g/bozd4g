@@ -3,7 +3,9 @@ Software Engineer, Bibliophile and Enthusiastic.
 
 I am a software engineer based in Berlin, Germany and Istanbul, Turkey. I am writing blog posts about engineering and other topics. Also I am creating some open source projects to share my knowledge with the community.
 
-Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests. I like meeting and making new friends 🤙\
+Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests.\
+I like meeting and making new friends 🤙
+
 So, do you wanna meet with me? Do you wanna meet with me? You can find me on;
 
 <a href="https://www.instagram.com/bozd4g">

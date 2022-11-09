@@ -6,7 +6,7 @@ I am a software engineer based in Berlin, Germany and Istanbul, Turkey. I am wri
 Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests.\
 I like meeting and making new friends 🤙
 
-So, do you wanna meet with me? Do you wanna meet with me? You can find me on;
+So, do you wanna meet with me? You can find me on;
 
 <a href="https://www.instagram.com/bozd4g">
   <img align="left" alt="Furkan's Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />

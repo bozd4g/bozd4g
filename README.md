@@ -1,12 +1,7 @@
 ### Hello, it's [Furkan!](https://bozdag.dev) <img alt="Furkan's Instagram" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
-Software Engineer, Bibliophile and Enthusiastic. 
+Software Crafter, Gopher and Coffee Addict. 
 
-I am a software engineer based in Berlin, Germany and Istanbul, Turkey. I am writing blog posts about engineering and other topics. Also I am creating some open source projects to share my knowledge with the community.
-
-Explore is an exciting thing. Travels, music, designs and technologies are areas of my interests.\
-I like meeting and making new friends 🤙
-
-So, do you wanna meet with me? You can find me on;
+Do you wanna meet with me? You can find me on;
 
 <a href="https://www.instagram.com/bozd4g">
   <img align="left" alt="Furkan's Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />

@@ -1,5 +1,5 @@
 ### Hello, it's [Furkan!](https://bozdag.dev) <img alt="Furkan's Instagram" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
-Software Crafter, Gopher and Coffee Addict. 
+Software Crafter, Gopher and coffee addict based in Berlin, Germany.
 
 Do you wanna meet with me? You can find me on;
 
